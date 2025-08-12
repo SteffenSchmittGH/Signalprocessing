@@ -2,7 +2,7 @@
 
 ### Pole Zero Script
 
-Creates Pole Zero plot as well as Frequency reaponse of Filter
+Creates Pole Zero plot as well as Frequency response of Filter
 
 <img width="692" height="623" alt="grafik" src="https://github.com/user-attachments/assets/5884296a-0de1-4b7b-bf6e-70642c0d3279" />
 
